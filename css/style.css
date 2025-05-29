@@ -51,15 +51,3 @@ canvas {
         font-size: 45px
     }
 }
-
-.custom-message {
-  color: #EEEEEE;         /* Text color */
-  font-size: 1.5em;       /* Larger text */
-  font-weight: bold;      /* Bold text */
-  background: #000000;    /* Light background */
-  padding: 10px 20px;     /* Padding around text */
-  border-radius: 8px;     /* Rounded corners */
-  text-align: center;     /* Centered text */
-  margin: 20px auto;      /* Spacing around the message */
-  width: fit-content;     /* Width fits the text */
-}
